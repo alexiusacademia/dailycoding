@@ -4,7 +4,7 @@
     A simple program that converts temperature in Celcius 
     to Fahrenheit.
 
-    Author: syncster.dev
+    Author: Alexius Academia
     Date:   October 25, 2024
 */
 
