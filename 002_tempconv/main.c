@@ -5,7 +5,7 @@
     This program will allow the user to select which will be the input,
     celcius or fahrenheit.
 
-    Author: syncster.dev
+    Author: Alexius Academia
     Date:   October 25, 2024
 */
 
