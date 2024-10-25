@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
     printf("Enter temperature in Celcius: ");
     scanf("%f", &cel);
 
-    fah = cel * 9.0 / 5 + 32;   // Formulat to convert celcius to fahrenheit
+    fah = cel * 9.0 / 5 + 32;   // Formula to convert celcius to fahrenheit
 
     printf("Temperature in fahrenheit is: %.2f\n", fah);
 
